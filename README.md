@@ -1,3 +1,7 @@
+# Note
+
+ARCHIVED: This repository is no longer maintained and has been archived. Thanks!
+
 # Openshift Community Operators
 [![License](http://img.shields.io/:license-apache-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
 
